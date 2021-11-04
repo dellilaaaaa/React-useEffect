@@ -57,6 +57,7 @@ function CatList() {
             onChange={handleChangesInput}
           />
         </InputGroup>
+        <h2>List Kucing</h2>
         {/* <input type = "text" placeholder="Cari data Data" onChange = {dataInput}  /> */}
         {/* <button onClick = {dataInput}>Add</button> */}
         <Row xs={1} md={4} className="g-4">
